@@ -3,12 +3,27 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@material-ui/core": "^4.9.6",
+    "@rebass/preset": "^4.0.5",
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
     "@testing-library/user-event": "^7.1.2",
+    "antd": "^4.0.3",
+    "aos": "^3.0.0-beta.6",
+    "bootstrap": "^4.4.1",
+    "bulma": "^0.8.0",
+    "emotion-theming": "^10.0.27",
+    "foundation-sites": "^6.6.1",
+    "node-sass": "^4.13.1",
+    "office-ui-fabric-react": "^7.105.0",
     "react": "^16.13.0",
+    "react-bootstrap": "^1.0.0-beta.17",
     "react-dom": "^16.13.0",
-    "react-scripts": "3.4.0"
+    "react-foundation": "^0.9.6",
+    "react-scripts": "3.4.0",
+    "rebass": "^4.0.7",
+    "semantic-ui-react": "^0.88.2",
+    "shards-react": "^1.0.3"
   },
   "scripts": {
     "start": "react-scripts start",

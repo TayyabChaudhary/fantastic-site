@@ -1,0 +1,7 @@
+.background-image{
+    background-image:linear-gradient(rgba(0,0,0,0.8),rgba(0,0,0,0.8)), url('https://unsplash.it/3000/3000/?random');
+    background-size: cover;
+    min-height: 80vh;
+    background-position:center center;
+    // clip-path: polygon(0% 0%, 0% 100%, 25% 100%, 25% 25%, 75% 25%, 75% 75%, 25% 75%, 25% 100%, 100% 100%, 100% 0%);
+}
